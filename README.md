@@ -1,2 +1,2 @@
 # Portfolio
-This is the frist stage of my professional protfolio. I have constructed the lay out and incldued the following: Homepage, About Me- with resume and social links, Porfolio to include images of project I have managed, and contact info.
+This is the frist stage of my professional portfolio. I have constructed the lay out and incldued the following: Homepage, About Me- with resume and social links, Portfolio to include images of project I have managed, and contact info.
