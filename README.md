@@ -19,5 +19,5 @@ Portfolio to links and github repos to projects.
 
 
 
-Contact info. 
+Contact info.
 <img width="1313" alt="Screen Shot 2021-01-11 at 3 12 32 PM" src="https://user-images.githubusercontent.com/70174557/104249002-7050e080-541f-11eb-9006-da95525756b9.png">
