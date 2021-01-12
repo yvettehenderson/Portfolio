@@ -2,15 +2,21 @@
 This is the  second stage of my professional portfolio.
 https://yvettehenderson.github.io/Portfolio/
 
+GitHub Repo
+https://github.com/yvettehenderson/Portfolio
+
+
 I have constructed the lay out and incldued the following: 
 Homepage
 <img width="1330" alt="Screen Shot 2021-01-11 at 3 10 22 PM" src="https://user-images.githubusercontent.com/70174557/104248878-2ff16280-541f-11eb-84d4-89d7e30540d2.png">
 
-About Me- with resume and social links
-<img width="1319" alt="Screen Shot 2021-01-11 at 3 11 18 PM" src="https://user-images.githubusercontent.com/70174557/104248920-45668c80-541f-11eb-8480-3221f17121fc.png">
+About Me- with resume and linkedin
+<img width="1285" alt="Screen Shot 2021-01-12 at 1 45 36 PM" src="https://user-images.githubusercontent.com/70174557/104378262-938d9580-54dc-11eb-956c-108a5e08e984.png">
 
-Portfolio to include images of project I have managed as well as a few web development projects.
-<img width="1324" alt="Screen Shot 2021-01-11 at 3 12 04 PM" src="https://user-images.githubusercontent.com/70174557/104248976-60390100-541f-11eb-86ed-69dcbedfe2a1.png">
+
+Portfolio to links and github repos to projects.
+<img width="1326" alt="Screen Shot 2021-01-12 at 1 47 06 PM" src="https://user-images.githubusercontent.com/70174557/104378324-ab651980-54dc-11eb-9a77-c39f7f6bc15d.png">
+
 
 
 Contact info. 
