@@ -23,30 +23,4 @@ Contact info.
 <img width="1313" alt="Screen Shot 2021-01-11 at 3 12 32 PM" src="https://user-images.githubusercontent.com/70174557/104249002-7050e080-541f-11eb-9006-da95525756b9.png">
 
 
- Technologies used
- >HTML
- >CSS
- >Java Script
- >Express
- >uuid
- >uuidv4
- >asciiart-logo
- >console.table
- >inquirer
- >"mysql
-
-
-
-
-
-
-
-
-
- Title of app
-   * Live link to deployed app
-   * List of technologies used
-   * 1-2 sentences explaining what the app is
-   * 2-3 Screenshots / gifs of the app
-   * License (usually MIT)
-   * Contact information for you and any collaborators
+ 
