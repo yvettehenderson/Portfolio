@@ -15,7 +15,8 @@ About Me- with resume and linkedin
 
 
 Portfolio to links and github repos to projects.
-<img width="1326" alt="Screen Shot 2021-01-12 at 1 47 06 PM" src="https://user-images.githubusercontent.com/70174557/104378324-ab651980-54dc-11eb-9a77-c39f7f6bc15d.png">
+![Screen Shot 2021-03-11 at 10 27 30 AM](https://user-images.githubusercontent.com/70174557/110836054-7400b800-8254-11eb-9248-8866a44e3fe5.png)
+![Screen Shot 2021-03-11 at 10 27 37 AM](https://user-images.githubusercontent.com/70174557/110836397-d5c12200-8254-11eb-9d92-1e1ef434a58f.png)
 
 
 
@@ -40,13 +41,3 @@ Contact info.
 
 
 
-
-
-
- Title of app
-   * Live link to deployed app
-   * List of technologies used
-   * 1-2 sentences explaining what the app is
-   * 2-3 Screenshots / gifs of the app
-   * License (usually MIT)
-   * Contact information for you and any collaborators
